@@ -8,7 +8,8 @@
 <div id="main">
   <div id="about-me">
     <h3>About me</h3>
-     <p>I'm a frontend developer from Saint-Petersburg, Russia. Looking for the job (office/remote)</p>
+     <p>I'm a frontend developer from Saint-Petersburg, Russia, 22 y.o. Looking for the job (office/remote)</p>
+     <p><b>Email:</b> emyleigh@inbox.ru</p>
   </div>
   <div id="education">
     <h3>Education</h3>
